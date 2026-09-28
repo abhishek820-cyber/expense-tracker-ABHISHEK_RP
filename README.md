@@ -2,6 +2,10 @@
 
 A simple expense tracker built with plain HTML, CSS and JavaScript. No build step, no dependencies.
 
+## Live demo
+
+Try it here: https://abhishek820-cyber.github.io/expense-tracker-ABHISHEK_RP/
+
 ## Run it
 
 1. Clone the repository.
